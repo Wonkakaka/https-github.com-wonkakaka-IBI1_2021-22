@@ -6,6 +6,6 @@ counter=1
 while counter<=number:
   sum=sum+counter
 # List result as need
-print("sum=",sum) 
+	print("sum=",sum) 
 # The process is not over yet, all ten results need to be enumerated.
-counter+=1
+	counter+=1
