@@ -1,0 +1,21 @@
+# Import numpy and matplotlib.pyplot modules in python
+import numpy as np
+import matplotlib.pyplot as plt
+# First, I list his eight accomplishments.
+n=8
+marks=[45,36,86,57,53,92,65,45]
+# Then I chang the shape of the boxplot by editing some parameters of the boxplot and get the average value.
+plt.boxplot(marks,
+            vert = False,
+            whis = 3,
+            patch_artist = False,
+            meanline = True,
+            showmeans = True,
+            showbox = True,
+            showcaps = True,
+            showfliers = True,
+            notch = False
+                )
+# and name a boxplot from the data and the parameters 
+plt.title('IBI1 practical marks of Rob')	
+plt.show()
