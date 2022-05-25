@@ -22,7 +22,8 @@ plt.boxplot(marks,
             showbox = True,
             showcaps = True,
             showfliers = True,
-            notch = False
+            notch = False,
+            labels = None
                 )
 # and name a boxplot from the data and the parameters 
 plt.title('IBI1 practical marks of Rob')	
