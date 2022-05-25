@@ -5,7 +5,7 @@ n=1
 p=2
 # Ensure that the program does not stop until p reaches 64.
 while p<number:
-        p=(n*n+n+2)/2
+        p=(n*n+n+2)/2 # The calculation formula is applied here.
         print("when the pieces of pizza is:",p,"the number of cuts is:",n)
-        n+=1
+        n+=1 # Make the code loop through the scope.
 
