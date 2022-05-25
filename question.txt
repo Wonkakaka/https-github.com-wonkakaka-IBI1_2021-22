@@ -1,3 +1,0 @@
-The problem I designed was to calculate the average of new cases per day in Afghanistan.
-I solved this problem in the previous file on lines 70 to 90.
-I finally calculated that the average number of new cases per day in Afghanistan was 1.7195121951219512.
