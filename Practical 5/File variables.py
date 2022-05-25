@@ -9,3 +9,7 @@ if d>e:
 	print(" the difference between the numbers of cases in 2020 and 2021 is greater")
 else:
 	print(" the difference between the numbers of cases in 2021 and 2022 is greater")
+X=True
+Y=False
+W=X and Y
+print(W)
