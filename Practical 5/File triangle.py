@@ -8,4 +8,4 @@ while counter<=number:
 # List result as need
 	print("sum=",sum) 
 # The process is not over yet, all ten results need to be enumerated.
-	counter+=1
+	counter+=1 # Make the code loop through the scope
